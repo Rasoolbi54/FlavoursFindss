@@ -103,15 +103,9 @@ Flavours Find is a web application that allows users to explore and discover del
 
 
 
-## Demo
-
-Check out the live demo of the application at [your-deployed-url.com](https://www.your-deployed-url.com).
-
----
-
 ## Video Walkthrough
 
-Watch the video walkthrough of the app here: [Link to your video].
+Watch the video walkthrough of the app here: [(https://drive.google.com/file/d/1DawOWmNbHAyHZ5gm7DHabKHhPizM4aEm/view)].
 
 ---
 
